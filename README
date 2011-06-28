@@ -15,6 +15,9 @@ saves them as waveform, encodes them (MP3/Ogg), and submits them to OpenWatch.ne
 ==Development Resources==
 Server:
     * http://jeremy-mcnamara.com/asterisk/how-to-configure-asterisk/
+Dialplan Language:
+    * http://www.voip-info.org/tiki-index.php?page=Asterisk%20config%20extensions.conf
+    * http://cdn.oreilly.com/books/9780596510480.pdf
 Client (Android):
     * http://developer.android.com/resources/samples/SipDemo/index.html (Native, 2.3 only)
     * http://sipdroid.org/
