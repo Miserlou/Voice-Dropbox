@@ -1,6 +1,6 @@
-=Voice-Dropbox=
-==by Rich Jones and Randall Degges==
-===for OpenWatch.net===
+= Voice-Dropbox =
+by Rich Jones and Randall Degges
+for OpenWatch.net
 
 ==About==
 Voice-Dropbox is an Asterisk configuration which automatically records any incoming VoIP or PSTN calls,
