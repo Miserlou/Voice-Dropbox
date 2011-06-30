@@ -32,7 +32,7 @@ cache to prepare for installation::
     $ apt-get update
 
 **********************
-Part 2 - Install Dahdi
+Part 2 - Install DAHDI
 **********************
 
 Now that we've got our debian repositories configured, we need to install
@@ -41,3 +41,9 @@ timing for telephony applications.
 
 Without DAHDI, voice-dropbox would only be able to process a few concurrent
 calls at a time.
+
+To install DAHDI, run the following commands as ``root``::
+
+    $ apt-get install asterisk-dahdi
+
+And follow the on-screen prompts as required.
