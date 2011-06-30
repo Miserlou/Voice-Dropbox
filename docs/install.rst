@@ -31,8 +31,6 @@ cache to prepare for installation::
 
     $ apt-get update
 
-Now we're ready for the next step.
-
 **********************
 Part 2 - Install Dahdi
 **********************
