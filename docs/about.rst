@@ -3,10 +3,10 @@ About
 =====
 
 voice-dropbox has been created primarily to encourage public monitoring of
-authority figures using telephone technology for the `openwatch project
+authority figures using telephone technology for the `OpenWatch project
 <http://openwatch.net/>`_.
 
-The openwatch project provides various technologies to assist people in
+The OpenWatch project provides various technologies to assist people in
 recording authority figures using mobile technology to help find and fight
 against abuses of power.
 
@@ -39,7 +39,7 @@ voice-dropbox is a telephony service, powered by `Asterisk
 Why Did You Create This?
 ************************
 
-`openwatch <http://openwatch.net/>`_ currently runs only in the US. While we're
+`OpenWatch <http://openwatch.net/>`_ currently runs only in the US. While we're
 extremely supportive of authority monitoring efforts in other countries, we
 currently don't have the resources to support multiple international web
 servers, and telephone endpoints that would be cost-effective tools for people
