@@ -6,9 +6,12 @@ for OpenWatch.net
 Voice-Dropbox is an Asterisk configuration which automatically records any incoming VoIP or PSTN calls,
 saves them as waveform, encodes them (MP3/Ogg), and submits them to OpenWatch.net with relevent information.
 
+## Documentation
+Complete documenation is available here: http://voice-dropbox.readthedocs.org
+
 ## Install Instructions
 ### Server Update
-* aptitude upgrade etc
+Aptitude upgrade, etc
 ### Asterisk + Dahdi
  * http://www.asterisk.org/downloads
  * sudo apt-get install python-special-properties
@@ -17,8 +20,8 @@ saves them as waveform, encodes them (MP3/Ogg), and submits them to OpenWatch.ne
  * aptitude update
  * aptitude install asterisk-1.8 asterisk-dahdi asterisk-core-sounds-en-wav
  * both have /etc/init.d/ scripts
-  * Asterisk shell: asterisk -r
-  * Verbosity: core set verbose 99
+ * Asterisk shell: asterisk -r
+ * Verbosity: core set verbose 99
 
 ## Configuration
     * /etc/asterisk/
