@@ -47,7 +47,7 @@ Aptitude upgrade, etc
             exten => _X.,n,Set(test=OK)
             exten => _X.,n,Set(GLOBAL(hi)=${MATH( ${GLOBAL(hi)} + 1)})
             exten => _X.,n,AGI(hello.py) #run the script /var/lib/asterisk/agi-bin/hello.py (absolute path)
-            exten => _X.,n,NoOp(I like to ${test} things)
+            exten => _X.,von,NoOp(I like to ${test} things)
             exten => _X.,n,NoOp(GLOBAL VARIABLE hi is: ${GLOBAL(hi)})
             exten => _X.,n,NoOp(DEBUG INFO: ${CALLERID(all)} ${CALLERID(num)} ${CALLERID(name)} => ${EXTEN}) ;
             exten => _X.,n,Wait(1)
