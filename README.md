@@ -12,6 +12,9 @@ Complete documenation is available here: http://voice-dropbox.readthedocs.org
 ## Install Instructions
 ### Server Update
 Aptitude upgrade, etc
+### Required Components
+* sudo apt-get install git-core curl vorbis-tools
+
 ### Asterisk + Dahdi
  * http://www.asterisk.org/downloads
  * sudo apt-get install python-special-properties
